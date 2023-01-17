@@ -14,7 +14,7 @@ public class Listener {
 
     /**
      * The invoke function needs two parameters: the instance of the method's class and the parameter we want to pass.
-     * We get the instance in the constructer, whereas the parameter is passed obtained from the Listener's invoke
+     * We get the instance in the constructer, whereas the parameter is obtained from the Listener's invoke
      * method using a Consumer.
      * @param instance the method's class's instance
      */
